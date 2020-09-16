@@ -1,6 +1,6 @@
-### Hi there, I'm Kevin - aka [devslice.net][website] 👋
+### Hi there, I'm Kevin - aka devslice.net 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fdevslice.net)](https://devslice.net)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=http%3A%2F%2Fdevslice.net)](http://devslice.net)
 
 
 <!--
