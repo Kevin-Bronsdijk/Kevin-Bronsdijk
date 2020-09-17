@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=devslice.net&style=for-the-badge&url=http%3A%2F%2Fdevslice.net)](http://devslice.net)
 
-- 🌱 I’m currently learning Tailwind CSS, PostCSS, Flutter and how the world works...
+- 🌱 I’m currently learning Tailwind CSS, PostCSS, Flutter, AWS Cognito and how the world works...
 - 💬 Ask me about .net, c#, fluent style coding, software testing
 - 👯 I’m looking to collaborate on exciting open source projects
 
