@@ -39,6 +39,10 @@
 [linkedin]: https://www.linkedin.com/in/bronsdijk/
 
 ---
+### :blue_book: Github Actions
+- [Nuget pre-release detection](https://github.com/marketplace/actions/nuget-pre-release-detection)
+
+---
 
 ### 📕 Latest Blog Posts
 
