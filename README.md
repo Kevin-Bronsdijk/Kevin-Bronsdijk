@@ -41,7 +41,10 @@
 ---
 
 ### :blue_book: Github Actions
+
 - [Nuget pre-release detection](https://github.com/marketplace/actions/nuget-pre-release-detection)
+- [Npm pre-release detection](https://github.com/marketplace/actions/npm-pre-release-detection)
+
 
 ---
 
