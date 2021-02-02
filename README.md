@@ -62,3 +62,5 @@
 ➡️ [more blog posts...](http://devslice.net)
 
 ---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kevin-Bronsdijk/Kevin-Bronsdijk)
