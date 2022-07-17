@@ -1,5 +1,9 @@
 ### Hi there, I'm Kevin - aka devslice.net 👋
 
+Hi, my name is Kevin, a software engineering manager at a fintech startup in Southeast Asia. I am deeply passionate about software development and building high-performing teams. In my spare time, I blog about software engineering and leadership in technology.
+
+I have spent over five years working as an agile software delivery specialist, leading and working in technical teams creating quality software. During this time, I’ve delivered websites and a range of digital products for clients of all sizes, from small businesses to multi-national companies.
+
 [![Website](https://img.shields.io/website?label=devslice.net&style=for-the-badge&url=http%3A%2F%2Fdevslice.net)](http://devslice.net)
 
 - 🌱 I’m currently learning about Azure static web apps, Argo CD, Micro frontends, and how the world works...
