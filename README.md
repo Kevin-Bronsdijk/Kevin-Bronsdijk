@@ -6,7 +6,7 @@ I have spent over five years working as an agile software delivery specialist, l
 
 [![Website](https://img.shields.io/website?label=devslice.net&style=for-the-badge&url=http%3A%2F%2Fdevslice.net)](http://devslice.net)
 
-- 🌱 I’m currently learning about Azure static web apps, Argo CD, Micro frontends, and how the world works...
+- 🌱 I’m currently learning about Azure static web & container apps, Argo CD, Micro frontends, GitOps, and how the world works...
 - 💬 Ask me about .net, c#, fluent style coding, software testing and agile software delivery.
 - 👯 I’m looking to collaborate on exciting open source projects.
 
